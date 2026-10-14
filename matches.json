@@ -1,0 +1,42 @@
+[
+    {
+        "id": "sample-001",
+        "date": "2026-09-12",
+        "opponent": "Rahul Shah",
+        "event": "College Practice Match",
+        "result": "Win",
+        "points_for": 21,
+        "points_against": 17,
+        "notes": "Strong net play and good first-game control."
+    },
+    {
+        "id": "sample-002",
+        "date": "2026-09-18",
+        "opponent": "Amit Patel",
+        "event": "College Practice Match",
+        "result": "Loss",
+        "points_for": 16,
+        "points_against": 21,
+        "notes": "Need to improve defensive returns."
+    },
+    {
+        "id": "sample-003",
+        "date": "2026-09-26",
+        "opponent": "Rahul Shah",
+        "event": "Inter-Class Tournament",
+        "result": "Win",
+        "points_for": 21,
+        "points_against": 14,
+        "notes": "Good attacking rallies and consistent serves."
+    },
+    {
+        "id": "sample-004",
+        "date": "2026-10-02",
+        "opponent": "Kunal Mehta",
+        "event": "Inter-Class Tournament",
+        "result": "Win",
+        "points_for": 21,
+        "points_against": 19,
+        "notes": "Close match; improved performance in final rallies."
+    }
+]
